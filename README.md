@@ -3,7 +3,7 @@
 This repository contains my **Electric Vehicle Population Analysis** project built using **Microsoft Power BI**.  
 The goal of this project is to analyze electric vehicle (EV) population data to uncover adoption trends, patterns, and insights that support decision-making and sustainability understanding.
 
-📌 Project Objectives
+Project Objectives
 The main objectives of this Electric Vehicle (EV) Population Analysis project are:
 - To analyze the growth and adoption of electric vehicles across different regions
 - To understand the distribution of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs)
@@ -11,7 +11,7 @@ The main objectives of this Electric Vehicle (EV) Population Analysis project ar
 - To create interactive dashboards that support data-driven decision making
 - To enhance skills in data visualization, DAX, and Power BI reporting
 
-📂 Dataset Description
+Dataset Description
 The dataset used in this project contains detailed information related to electric vehicles, including:
 - Vehicle Make & Model
 - Model Year
@@ -27,7 +27,7 @@ The dataset was cleaned and transformed using Power BI Power Query to handle:
 - Column standardization
 - Filtering irrelevant or duplicate entries
 
-## 🔍 Project Overview
+Project Overview
 
 In this project, I explored EV data to:
 
@@ -38,14 +38,14 @@ In this project, I explored EV data to:
 - Create **interactive visuals**, slicers, and KPIs to enhance insight discovery  
 This dashboard strengthens analytical skills in data cleaning, DAX calculations, and report design using Power BI. :contentReference[oaicite:0]{index=0}
 
-## 📊 Key Features
+Key Features
 
 ✔ Interactive Power BI dashboard  
 ✔ Clear visual comparisons across states, models, and years  
 ✔ KPIs summarizing trends and insights  
 ✔ Easy-to-navigate slicers for custom views  
 
-📊 Data Analysis & Visualization
+Data Analysis & Visualization
 The analysis focuses on transforming raw EV data into meaningful insights through:
 - Trend Analysis – Growth of electric vehicles over the years
 - Geographical Analysis – EV distribution across states and regions
@@ -57,15 +57,13 @@ The analysis focuses on transforming raw EV data into meaningful insights throug
 - KPI cards for quick insights
 - Bar charts, line charts, and maps for visual clarity
 
-## 🛠 Tools & Techniques
-
+Tools & Techniques
 - **Microsoft Power BI Desktop**
 - Data cleaning and transformation  
 - DAX measures and calculated fields  
 - Interactive visualizations and dashboards  
 
-🎯 Target Audience
-
+Target Audience
 This project is designed for:
 - Data Analysts & BI Professionals – To understand dashboard design and analytical storytelling
 - Students & Learners – Exploring real-world applications of Power BI
