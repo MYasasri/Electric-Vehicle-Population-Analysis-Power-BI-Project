@@ -1,5 +1,7 @@
 # Electric Vehicle Population Analysis | Power BI Project
 
+https://app.powerbi.com/view?r=eyJrIjoiNTg1ZjIwMmItOGU0NS00MjI1LTljOGUtOTVhYmY5MTIwN2MwIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+
 This repository contains my **Electric Vehicle Population Analysis** project built using **Microsoft Power BI**.  
 The goal of this project is to analyze electric vehicle (EV) population data to uncover adoption trends, patterns, and insights that support decision-making and sustainability understanding.
 
